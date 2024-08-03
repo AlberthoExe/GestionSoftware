@@ -1,0 +1,56 @@
+[
+    {
+        "ID": "1",
+        "Nombre": "Adibreak Pants",
+        "Descripcion": "Pants Negro",
+        "Precio": "759.00",
+        "Imagen": "img/pants.jpg",  
+        "Marca": "Adidas",
+        "Categoria": "Hombres"
+    },
+    {
+        "ID": "2",
+        "Nombre": "Yoga Tee",
+        "Descripcion": "Playera Gris",
+        "Precio": "459.00",
+        "Imagen": "img/playeragris.jpg",  
+        "Marca": "adidas",
+        "Categoria": "Hombres"
+    },
+    {
+        "ID": "3",
+        "Nombre": "Camiseta de fútbol",
+        "Descripcion": "Camiseta de fútbol para niños grandes PUMA x NEYMAR JR x COPA AMÉRICA",
+        "Precio": "489.00",
+        "Imagen": "img/playeraniño.jpg",  
+        "Marca": "Puma",
+        "Categoria": "Niños"
+    },
+    {
+        "ID": "4",
+        "Nombre": "Sueter niña",
+        "Descripcion": "Playera Infantil PUMA x TROLLS",
+        "Precio": "599.00",
+        "Imagen": "img/sueterniña.jpg", 
+        "Marca": "Puma",
+        "Categoria": "Niños"
+    },
+    {
+        "ID": "5",
+        "Nombre": "Women Top",
+        "Descripcion": "Nike Indy Medium Support Sujetador deportivo regulable con acolchado - Mujer",
+        "Precio": "363.00",
+        "Imagen": "img/top.jpg", 
+        "Marca": "Nike",
+        "Categoria": "Mujeres"
+    },
+    {
+        "ID": "6",
+        "Nombre": "Nike Shoes",
+        "Descripcion": "Nike Court Legacy Lift Zapatillas - Mujer",
+        "Precio": "363.00",
+        "Imagen": "img/zapatos.jpg",  
+        "Marca": "Nike",
+        "Categoria": "Mujeres"
+    }
+]

@@ -1,0 +1,66 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#cont_titulo{
+    display: flex;
+    width: 100%;
+    height: 10rem;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+
+#banner{
+    display: flex;
+    width: 100%;
+    height: 15rem;
+    /*margin-top: 10rem;*/
+    background: linear-gradient(45deg, #1459b4, #aaaab1);
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+#titulo_oferta, #parrafo_oferta{
+    color: white;
+}
+
+#banner:hover {
+    box-shadow: 0 20px 30px rgba(71, 96, 240, 0.904); /* Sombra más pronunciada al hacer hover */
+}
+
+a{
+    text-decoration: none; 
+    display: block; 
+    outline: none;
+}
+
+#cont_formulario{
+    width: 100%;
+    display: flex;
+    padding: 5rem;
+    justify-content: left;
+    
+}
+
+
+/*Nuevos*/
+
+/* Estilo para el contenedor del mapa y formulario */
+.column {
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+.map-container iframe {
+    width: 100%;
+    height: 500px; /* Aumentado para que el mapa sea más grande */
+    border: 0;
+}
